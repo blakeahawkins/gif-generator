@@ -1,0 +1,12 @@
+#button-div {
+    width: 100%;
+}
+#gifs-appear-here {
+    width: 60%;
+}
+#add-button-form {
+    width: 30%;
+    float: right;
+    position: relative;
+    top: 0;
+}
